@@ -148,4 +148,4 @@ Then remove the `-p:TargetFrameworks=net9.0-ios` parameter from the build comman
 
 This project is open-source under the [Apache 2.0](./LICENSE.txt) license.
 
-This is NOT the official OpenUtau application and must not impersonate the official OpenUtau.
+This is NOT the official OpenUtau application and must not impersonate the official OpenUtau. 
